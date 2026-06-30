@@ -1,0 +1,170 @@
+{
+    "name": "Plana",
+    "description": "ｶﾜｲｲﾈ",
+    "authors": [
+        {
+            "name": "Hellanolysia",
+            "id": "hellanolysia"
+        }
+    ],
+    "spec": 2,
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#1a1f3a99"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1a1f3a99"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1a1f3a99"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1a1f3a99"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1a1f3aee"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1a1f3a99"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1a1f3a99"
+        ],
+        "BACKGROUND_MOBILE_FLOATING": [
+            "#1a1f3aee"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1a1f3aee"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1a1f3a99"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#1a1f3a00"
+        ],
+        "EMBED_BACKGROUND": [
+            "#1a1f3ad0"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#1a1f3a99"
+        ],
+        "TEXT_NORMAL": [
+            "#000000"
+        ],
+        "TEXT_MUTED": [
+            "#ffffff"
+        ],
+        "TEXT_LINK": [
+            "#ffff00"
+        ],
+        "TEXT_DANGER": [
+            "#f87171"
+        ],
+        "HEADER_PRIMARY": [
+            "#ff00ff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ff00ffcc"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#0040ff"
+        ],
+        "CHANNEL_ICON": [
+            "#0040ff"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#ff00ff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#6b71f2"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#6b71f2cc"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f5f3ff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#1a1f3a"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#ff000020"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#ff000035"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ff000040"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ff000030"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#ff000015"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#ff000025"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#ff0000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#1a1f3acc"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#ff0000"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#00000000"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#0d0f1ecc"
+        ],
+        "REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#ff0000"
+        ],
+        "BUTTON_OUTLINE_BRAND_BACKGROUND": [
+            "#ff0000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#ff0000"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#1a1f3a"
+        ],
+        "KEYBOARD": [
+            "#1a1f3a"
+        ],
+        "ANDROID_RIPPLE": [
+            "#0040ff30"
+        ],
+        "BG_MOD_FAINT": [
+            "#1a1f3a80"
+        ],
+        "BG_MOD_STRONG": [
+            "#1a1f3a80"
+        ],
+        "BG_BRAND": [
+            "#ff0000"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_200": "#0040ff",
+        "PRIMARY_230": "#0040ff",
+        "PRIMARY_300": "#000000",
+        "PRIMARY_500": "#1a1f3a",
+        "PRIMARY_600": "#1a1f3a",
+        "PRIMARY_660": "#1a1f3a",
+        "PRIMARY_700": "#424242",
+        "PRIMARY_800": "#ff000040",
+        "BRAND_360": "#ff0000",
+        "BRAND_500": "#ff0000",
+        "GREEN_360": "#34d399",
+        "RED_400": "#f87171"
+    },
+    "background": {
+        "url": "https://i.imgur.com/Xf3pTCP.jpeg",
+        "alpha": 0.75,
+        "color": "#424242"
+    }
+}
