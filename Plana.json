@@ -3,168 +3,168 @@
     "description": "ｶﾜｲｲﾈ",
     "authors": [
         {
-            "name": "Hellanolysia",
+            "name": "amphetlyrith",
             "id": "hellanolysia"
         }
     ],
     "spec": 2,
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
-            "#1a1f3a99"
+            "#ffd1fdbf"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1a1f3a99"
+            "#ffd1fdbf"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1a1f3a99"
+            "#ffd1fdbf"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1a1f3a99"
+            "#5b0b3e99"
         ],
         "BACKGROUND_FLOATING": [
-            "#1a1f3aee"
+            "#ffd1fdee"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1a1f3a99"
+            "#ffd1fdbf"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1a1f3a99"
+            "#5b0b3e99"
         ],
         "BACKGROUND_MOBILE_FLOATING": [
-            "#1a1f3aee"
+            "#ffd1fdee"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1a1f3aee"
+            "#ffd1fdee"
         ],
         "CHAT_BACKGROUND": [
-            "#1a1f3a99"
+            "#ffd1fdbf"
         ],
         "CARD_PRIMARY_BG": [
-            "#1a1f3a00"
+            "#ffd1fd00"
         ],
         "EMBED_BACKGROUND": [
-            "#1a1f3ad0"
+            "#ffd1fdd0"
         ],
         "BG_BASE_PRIMARY": [
-            "#1a1f3a99"
+            "#ffd1fdbf"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#ffe5fa"
         ],
         "TEXT_MUTED": [
-            "#ffffff"
+            "#ffa3ee"
         ],
         "TEXT_LINK": [
-            "#ffff00"
+            "#0084ff"
         ],
         "TEXT_DANGER": [
             "#f87171"
         ],
         "HEADER_PRIMARY": [
-            "#ff00ff"
+            "#ffa8f3"
         ],
         "HEADER_SECONDARY": [
-            "#ff00ffcc"
+            "#ffa8f3cc"
         ],
         "CHANNELS_DEFAULT": [
-            "#0040ff"
+            "#ff9ef7"
         ],
         "CHANNEL_ICON": [
-            "#0040ff"
+            "#ff9ef7"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#ff00ff"
+            "#ffa8f3"
         ],
         "INTERACTIVE_NORMAL": [
-            "#6b71f2"
+            "#f462fe"
         ],
         "INTERACTIVE_HOVER": [
-            "#6b71f2cc"
+            "#f462fecc"
         ],
         "INTERACTIVE_ACTIVE": [
             "#f5f3ff"
         ],
         "INTERACTIVE_MUTED": [
-            "#1a1f3a"
+            "#ffd1fd"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#ff000020"
+            "#ff3df920"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#ff000035"
+            "#ff3df935"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#ff000040"
+            "#ff3df940"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#ff000030"
+            "#ff3df930"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ff000015"
+            "#ff3df915"
         ],
         "BACKGROUND_MENTIONED": [
-            "#ff000025"
+            "#ff3df925"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#ff0000"
+            "#ff3df9"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#1a1f3acc"
+            "#ffd1fdcc"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#ff0000"
+            "#ff3df9"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#00000000"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#0d0f1ecc"
+            "#f7befe96"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#ff0000"
+            "#ff3df9"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#ff0000"
+            "#ff3df9"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#ff0000"
+            "#ff3df9"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#1a1f3a"
+            "#ffd1fd"
         ],
         "KEYBOARD": [
-            "#1a1f3a"
+            "#ffd1fd"
         ],
         "ANDROID_RIPPLE": [
-            "#0040ff30"
+            "#ff9ef730"
         ],
         "BG_MOD_FAINT": [
-            "#1a1f3a80"
+            "#ffd1fd80"
         ],
         "BG_MOD_STRONG": [
-            "#1a1f3a80"
+            "#ffd1fd80"
         ],
         "BG_BRAND": [
-            "#ff0000"
+            "#ff3df9"
         ]
     },
     "rawColors": {
-        "PRIMARY_200": "#0040ff",
-        "PRIMARY_230": "#0040ff",
-        "PRIMARY_300": "#000000",
-        "PRIMARY_500": "#1a1f3a",
-        "PRIMARY_600": "#1a1f3a",
-        "PRIMARY_660": "#1a1f3a",
-        "PRIMARY_700": "#424242",
-        "PRIMARY_800": "#ff000040",
-        "BRAND_360": "#ff0000",
-        "BRAND_500": "#ff0000",
+        "PRIMARY_200": "#ff9ef7",
+        "PRIMARY_230": "#ff9ef7",
+        "PRIMARY_300": "#ffe5fa",
+        "PRIMARY_500": "#ffd1fd",
+        "PRIMARY_600": "#ffd1fd",
+        "PRIMARY_660": "#ffd1fd",
+        "PRIMARY_700": "#ffc2f4",
+        "PRIMARY_800": "#ff3df940",
+        "BRAND_360": "#ff3df9",
+        "BRAND_500": "#ff3df9",
         "GREEN_360": "#34d399",
         "RED_400": "#f87171"
     },
     "background": {
-        "url": "https://i.imgur.com/Xf3pTCP.jpeg",
-        "alpha": 0.75,
-        "color": "#424242"
+        "url": "https://i.imgur.com/tdffyIk.jpeg",
+        "alpha": 1,
+        "color": "#ffc2f4"
     }
 }
